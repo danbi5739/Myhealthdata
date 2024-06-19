@@ -3,6 +3,11 @@
 
 ## 통합 시각화(Integrated Visualization)
 ### 시각화 디자인
+(사진)
 
 ## 단일 시각화(Single Visualization)
 ### 시각화 디자인
+1. 심박수
+2. 혈압
+3. 혈당
+4. 체중/체성분
