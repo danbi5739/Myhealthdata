@@ -9,6 +9,10 @@
 ## 단일 시각화(Single Visualization)
 ### 시각화 디자인
 #### 1. 심박수
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/7012be8f-5291-46c6-b764-0f2574c5e84f)
+
 #### 2. 혈압
+
 #### 4. 혈당
+
 #### 5. 체중/체성분
