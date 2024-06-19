@@ -21,16 +21,16 @@
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/482ae3c1-9479-4ec5-b40b-fbdf69d4c3cf)
 
 #### 5. 걸음 수
-![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/3c1b658b-a47e-4384-aa97-eeb657991185)
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/1ef48f17-f753-4571-bd8f-13bb2958c3e1)
 
 #### 6. 운동
-![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/14bed7df-93eb-4462-aba6-ed26e1859ddc)
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/109badfb-2f71-4c57-ad4b-4a1b3dc7076a)
 
 #### 7. 음식/영양소
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/8af5ed99-7fbe-407f-bd70-086b6a005470)
 
 #### 8. 물
-![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/15479e96-ce39-4eb6-bb24-6a1632511d06)
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/a953b751-8909-4c5c-80c6-674cc8c4d3dc)
 
 #### 9. 수면
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/e16ee120-3576-4c1f-960f-15f4e4ff866c)
