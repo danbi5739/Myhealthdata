@@ -4,6 +4,8 @@
 ## 통합 시각화(Integrated Visualization)
 ### 시각화 디자인
 ![통합A_4x](https://github.com/danbi5739/Myhealthdata/assets/64328277/3ee2c9ba-1f4f-41f3-a70a-b81d135a0bca)
+![통합시각화_1x](https://github.com/danbi5739/Myhealthdata/assets/64328277/95e2787b-476b-4683-94fb-d142ad066704)
+
 
 ## 단일 시각화(Single Visualization)
 ### 시각화 디자인
