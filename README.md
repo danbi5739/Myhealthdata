@@ -7,6 +7,7 @@
 
 ### 인터랙티브 시각화
 ![통합 시각화](https://github.com/danbi5739/Myhealthdata/assets/64328277/507f2888-f542-4b8f-88d1-4dba9fbbb374)
+![ezgif com-video-to-gif-converter](https://github.com/danbi5739/Myhealthdata/assets/64328277/782bc001-1a2d-41c2-ad15-aa14d766a202)
 
 
 ## 단일 시각화(Single Visualization)
