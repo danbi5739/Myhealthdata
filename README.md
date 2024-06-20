@@ -6,7 +6,6 @@
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/4b1e0b75-254d-453e-aabe-dd9385731126)
 
 ### 인터랙티브 시각화
-![통합 시각화](https://github.com/danbi5739/Myhealthdata/assets/64328277/e4856656-4d42-42e2-9201-32e4b2394706)
 ![통합 시각화 (1)](https://github.com/danbi5739/Myhealthdata/assets/64328277/604bb8b5-9303-4ea2-a520-635423d09e16)
 
 
