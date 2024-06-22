@@ -39,4 +39,4 @@
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/e16ee120-3576-4c1f-960f-15f4e4ff866c)
 
 #### 10. 스트레스
-![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/459ec65c-3832-40ac-b011-a6dd9d75324e)
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/2c63d754-619e-4364-afd2-533ec0801b7d)
