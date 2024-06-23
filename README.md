@@ -50,3 +50,5 @@
 
 #### 10. 스트레스
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/2c63d754-619e-4364-afd2-533ec0801b7d)
+
+![스트레스](https://github.com/danbi5739/Myhealthdata/assets/64328277/3667b176-48be-4684-9b36-c9e0bda840b5)
