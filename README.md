@@ -12,7 +12,7 @@
 ## 단일 시각화(Single Visualization)
 ### 시각화 디자인
 #### 1. 심박수
-![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/7012be8f-5291-46c6-b764-0f2574c5e84f)
+![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/091e3a49-9f20-42b7-a473-07341483c5e6)
 
 #### 2. 혈압
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/967c08d7-0cfb-4dc5-ba26-8d48a83780c3)
