@@ -18,6 +18,8 @@
 #### 1. 심박수
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/091e3a49-9f20-42b7-a473-07341483c5e6)
 
+![심박수](https://github.com/danbi5739/Myhealthdata/assets/64328277/65e68c5b-e347-4551-a589-5d75e62e454c)
+
 #### 2. 혈압
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/967c08d7-0cfb-4dc5-ba26-8d48a83780c3)
 
