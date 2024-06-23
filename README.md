@@ -45,7 +45,7 @@
 
 ### 인터랙티브 시각화 예시
 #### 혈당
-
+![단일시각화](https://github.com/danbi5739/Myhealthdata/assets/64328277/97ac52bf-c996-43e8-8f9a-719e962360bd)
 
 #### 심박수
 ![심박수](https://github.com/danbi5739/Myhealthdata/assets/64328277/65e68c5b-e347-4551-a589-5d75e62e454c)
