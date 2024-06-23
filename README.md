@@ -38,6 +38,8 @@
 #### 7. 음식/영양소
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/f615acff-a6d7-4daa-b941-9c993e45bfee)
 
+![음식](https://github.com/danbi5739/Myhealthdata/assets/64328277/5c3697be-3268-4ae2-8326-85ff5ce89a33)
+
 #### 8. 물
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/a953b751-8909-4c5c-80c6-674cc8c4d3dc)
 
