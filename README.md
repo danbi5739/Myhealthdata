@@ -30,7 +30,7 @@
 #### 5. 걸음 수
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/a263b735-6d2e-4167-b5e9-f0f7ba5c6511)
 
-![걸음수](https://github.com/danbi5739/Myhealthdata/assets/64328277/03568065-39e0-4fa0-a105-ba049e660cce)
+![걸음수](https://github.com/danbi5739/Myhealthdata/assets/64328277/43e35c22-d75c-4fcc-aeec-898bb4bdd175)
 
 #### 6. 운동
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/109badfb-2f71-4c57-ad4b-4a1b3dc7076a)
