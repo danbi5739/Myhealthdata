@@ -1,6 +1,6 @@
 # Interactive Myhealthdata Visualization Prototype
 프로토타입은 전체 건강 상태를 보여주는 '통합 시각화' 부분과 개별 건강 데이터를 보여주는 '단일 시각화' 부분으로 구성됨.
-                     
+
 
 ## 통합 시각화(Integrated Visualization)
 ### 시각화 디자인
@@ -42,7 +42,6 @@
 #### 10. 스트레스
 ![image](https://github.com/danbi5739/Myhealthdata/assets/64328277/2c63d754-619e-4364-afd2-533ec0801b7d)
 
-                        
 
 ### 인터랙티브 시각화 예시
 #### 혈당
